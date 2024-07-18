@@ -73,7 +73,7 @@ Please feel free to clone projects or ask me anything if you think something cou
 </a>
 </div>
 
-
+![snake gif](https://github.com/hasimyigit/hasimyigit/blob/output/github-contribution-grid-snake.gif)
 <!--
 Full-Stack+Web+Developer
 **rayen-creator/rayen-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -86,4 +86,4 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 </a>
 
-![snake gif](https://github.com/hasimyigit/hasimyigit/blob/output/github-contribution-grid-snake.gif)
+
