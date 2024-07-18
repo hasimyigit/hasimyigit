@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">
 <a href="https://github.com/hasimyigit">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hey+there%2C+I%27m+Souhail;Developer" alt="Souhail Brahmi" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hey+there%2C+I%27m+Haşim;Developer" alt="Haşim" /></a>
 <h1/> 
 
 <!-- [![Github](https://img.shields.io/github/followers/hasimyigit?label=Follow&style=social)](https://github.com/) -->
@@ -27,7 +27,7 @@ Please feel free to clone projects or ask me anything if you think something cou
   
 - 👯 I’m looking to collaborate on open Source Project and to work .
   
-- 🖥 Check out my  <a href="https://souhail.vercel.app/" target="_blank"> portfolio_website </a>
+- 🖥 Check out my  <a href="https://hasimyigit.com/" target="_blank"> portfolio_website </a>
   
 
 ## 🚀 Frameworks and Languages
@@ -50,7 +50,7 @@ Please feel free to clone projects or ask me anything if you think something cou
 <p>
 
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,gitlab,github,git,graphql,postman,vite,jest,vercel" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,github,git,graphql,postman,vite,vercel" />
   </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
 <p>
@@ -68,16 +68,9 @@ Please feel free to clone projects or ask me anything if you think something cou
 ## :mag_right: Find me on
 
 <div align="center">
-  <a href="https://gitlab.com/souhail_edits" target="_blank">
-   <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-</a>
-   <a href="https://stackoverflow.com/users/23298981/souhail-brahmi" target="_blank">
-   <img alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</a>
 <a href="https://www.linkedin.com/in/hasimyigit" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 </div>
 
 
