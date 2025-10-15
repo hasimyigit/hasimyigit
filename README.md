@@ -27,7 +27,6 @@ Please feel free to clone projects or ask me anything if you think something cou
   
 - 👯 I’m looking to collaborate on open Source Project and to work .
   
-- 🖥 Check out my  <a href="https://hasimyigit.com/" target="_blank"> portfolio_website </a>
   
 
 ## 🚀 Frameworks and Languages
